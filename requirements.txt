@@ -4,3 +4,4 @@ langchain-community
 chromadb
 pypdf
 sentence-transformers
+docx2txt
